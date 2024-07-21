@@ -1,0 +1,15 @@
+.Date{
+     width: 100%;
+    display: flex;
+    justify-content: center;
+     background-color: #1A4D2F;
+     margin-top: 4px;
+}
+.Date p {
+ color: #A2B3A2;
+font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  background-color: #1A4D2F;
+  font-size: 13px;
+}

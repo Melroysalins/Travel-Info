@@ -1,0 +1,15 @@
+.PartnerPogram{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+     background-color: #1A4D2F;
+}
+.PartnerPogram p{
+    color: white;
+    opacity: 0.8;
+      font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  background-color: #1A4D2F;
+  font-size: 25px;
+}

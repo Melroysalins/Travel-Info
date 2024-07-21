@@ -1,0 +1,81 @@
+.BusinessMilesContainner{
+     width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+     background-color: #1A4D2F;
+     margin-top: 30px;
+     margin-bottom: 20px;
+}
+.MilesCountContainner{
+    width: 100%;
+    display: flex;
+    align-items: center;
+      background-color: #1A4D2F;
+      color: white;
+      justify-content: center;
+}
+.MilesCountContainner p{
+    color: white;
+      font-family: "Roboto", sans-serif;
+  font-weight: 800;
+  font-style: normal;
+  font-size: 32px;
+  background-color: #1A4D2F;
+}
+.plus{
+    margin-left: 10px;
+}
+.MilesCountContainner span{
+    color: white;
+      font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 15px;
+  background-color: #1A4D2F;
+  display: flex;
+  align-items: center;
+}
+.currency{
+     color: white;
+      font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  background-color: #1A4D2F;
+
+}
+.money{
+    display: flex;
+    align-items: center;
+      background-color: #1A4D2F;
+      margin-top: 7px;
+}
+.money p{
+    color: white;
+    opacity: 0.9;
+      font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 15px;
+  background-color: #1A4D2F;
+  display: flex;
+  align-items: center;
+}
+
+.containnerPlaceHolder{
+      background-color: #1A4D2F;
+      width: 100%;
+      display: flex;
+      justify-content: center;
+      color: white;
+      margin-top: 3px;
+}
+.containnerPlaceHolder p{
+       color: white;
+       opacity: 0.8;
+      font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+    background-color: #1A4D2F;
+    font-size: 15px;
+}

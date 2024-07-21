@@ -1,0 +1,11 @@
+.detailDisplay{
+    background-color: #1A4D2F;
+    width: 300px;
+    border: 8px;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 7px;
+}

@@ -1,0 +1,21 @@
+.Destination{
+     width: 100%;
+    display: flex;
+    justify-content: center;
+     background-color: #1A4D2F;
+     margin-top: 12px;
+     align-items: center;
+}
+.Destination p{
+     color: #A2B3A2;
+      font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  background-color: #1A4D2F;
+  font-size: 17px;
+}
+.arrowIcon{
+    background-color: #1A4D2F;
+    color: #A2B3A2;
+    font-size: 15px;
+}

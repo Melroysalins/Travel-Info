@@ -1,5 +1,13 @@
+*{
+  background-color: #172014;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
 .App {
+  display: flex;
   text-align: center;
+  justify-content: center;
 }
 
 .App-logo {
